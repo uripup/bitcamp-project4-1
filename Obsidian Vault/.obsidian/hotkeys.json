@@ -1,0 +1,10 @@
+{
+  "tasks-calendar-wrapper:open-tasks-timeline-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ]
+}
